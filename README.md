@@ -225,6 +225,6 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 <hr>
-## RESULT
+<h2>RESULT<h2>
 
 Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
